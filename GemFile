@@ -7,3 +7,4 @@ gem 'jekyll', '3.3.1'
    gem "gm"
    gem "mini_magick"
  end
+gem 'github-pages', group: :jekyll_plugins

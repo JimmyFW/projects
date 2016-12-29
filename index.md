@@ -19,12 +19,11 @@ I also [consulted](http://www.olin.edu/collaborate/scope/projects/2014_15/Ivani/
 <hr/>
 <br/>
 <span class="contacticon center">
-  <a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+  <a href="https://www.github.com/jwjimmy" target="_blank"><i class="fa fa-github-square"></i></a>
   <a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 <div class="col three caption">
-  
 </div>
 
 
