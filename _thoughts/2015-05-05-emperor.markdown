@@ -1,0 +1,12 @@
+---
+layout: post
+title: UX of Custom Collections
+date: 2015-07-06 07:59:00
+---
+
+When working on top of pre-trained neural net APIs, we're not trying to optimize the model itself. Rather, we're trying to optimize the model's performance as a function of which types of data it has been exposed to.
+
+- 1. Gather lists of categories of photos with positive and negative examples
+- 2. 
+
+### Wallace Stevens
