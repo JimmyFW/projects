@@ -8,7 +8,7 @@ layout: default
 
 <br/>
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="{{ site.baseurl }}/img/prof_pic.jpg">
 
 I'm a recent grad of [Olin College](https://www.olin.edu), where I studied electrical engineering, software design, and user-centered research methodologies. Most recently I was a backend software engineer at [HubSpot](https://www.hubspot.com/products/sales), making salespeoples' lives easier with creations like an out-of-office email detector and follow-up recommendations.
 
