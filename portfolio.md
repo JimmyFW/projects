@@ -25,7 +25,7 @@ permalink: /portfolio/
 </div>
 {% else %}
 
-<div class="project ">
+<div class="project">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
         {% if project.img %}
