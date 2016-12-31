@@ -5,8 +5,19 @@
 
   <body>
 
-    {% include header.html %}
+	<div id="lightbox" class="lightbox" style="display:none; overflow: hidden;" onclick="document.getElementById('lightbox').style.display='none';" >
+	   <table class="lightbox_table">
+	   <tr>
+	   <td class="lightbox_table_cell" align="center">
+	      <div id="lightbox_content" style="width:70%;">
+			<img src="#" class="lb-image" style="max-width: inherit;" id="lb-image">
+	      </div>
+	   </td>
+	   </tr>
+	   </table>
+	</div>
 
+    {% include header.html %}
 
     <div class="page-content">
       <div class="wrapper">

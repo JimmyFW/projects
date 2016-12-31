@@ -1,0 +1,31 @@
+.lightbox {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .5);
+  z-index: 10000;
+  text-align: center;
+  font-weight: normal;
+}
+
+.lightbox_table {
+    width:100%;
+    height:100%;
+}
+
+.lightbox_table_cell {
+    vertical-align:middle;
+}
+
+.lightbox .lb-image {
+  display: block;
+  height: auto;
+  width: inherit;
+  max-height: none;
+  border-radius: 3px;
+
+  /* Image border */
+  /*border: 4px solid white;*/
+}
