@@ -43,9 +43,9 @@ Read more about:
 </ul>
 
 <div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids.jpg" alt="" title="example image"/>
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids2.jpg" alt="" title="example image"/>
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids3.jpg" alt="" title="example image"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids2_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids3_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
 </div>
 <div class="col three caption">
 	We ran interaction design tests and activity pilots at Josiah Quincy Elementary School in Boston.

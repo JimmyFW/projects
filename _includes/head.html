@@ -12,4 +12,15 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Francois+One|Pontano+Sans" rel="stylesheet">
+
+    <link href="{{ site.baseurl }}/{{ site.lightbox_path }}css/lightbox.css" rel="stylesheet">
+
+    <script type="text/javascript">
+        function modalOn(thumbnail) {
+            console.log(thumbnail.src);
+            document.getElementById('lightbox').style.display='inline';
+            document.getElementById('lb-image').src = thumbnail.src.replace('_thumb', '');
+        }
+    </script>
+
 </head>
