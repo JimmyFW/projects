@@ -18,7 +18,7 @@ Brightbox is a hands-on optics lab for grade school children without access to e
 	<img class="col three" src="{{ site.baseurl }}/img/brightbox/beams.jpg" alt="" title="example image"/>
 </div>
 
-I worked on earlier versions of the Brightbox before it became project Child Education in Olin's [Affordable Design and Entrepreneurship](http://design.olin.edu/courses/ade/) senior capstone. After I graduated, I advised the new team as they took ownership.
+I conceptualized and tested earlier versions of the Brightbox as an engineer and project lead when it was a low-budget volunteer effort.
 
 The idea behind this educational toy is simple - three beams of light shine onto a board. Students, equipped with a kit of lenses, mirrors, and prisms, engage in hands-on activities and learn the principles of optics.
 
@@ -36,6 +36,10 @@ The idea behind this educational toy is simple - three beams of light shine onto
 * Solar-powered
 * Durable
 * Affordable
+
+# Outcomes
+
+In a year and a half, my team solved various technical challenges with the previous Brightbox prototypes, made plans for manufacturing, and assembled media for future marketing campaigns. The summer following my graduation, I advised the new team as the project was integrated into Olin's [Affordable Design and Entrepreneurship](http://design.olin.edu/courses/ade/) senior capstone.
 
 <div class="img_row">
 <img class="col two" src="{{ site.baseurl }}/img/brightbox/agastya.png" alt="" title="example image"/>
@@ -58,5 +62,5 @@ Read more about:
 <img class="col one" src="{{ site.baseurl }}/img/brightbox/kids3_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
 </div>
 <div class="col three caption">
-	We ran interaction design tests and activity pilots at Josiah Quincy Elementary School in Boston.
+	Interaction design tests and activity pilots at Josiah Quincy Elementary School in Boston.
 </div>
