@@ -12,42 +12,42 @@ date: December 16, 2015
 </div>
 </div>
 
-Brightbox is a hands-on optics lab for grade school children without access to electricity. It was made for rural schoolhouses participating in <a href="http://www.agastya.org/lab-in-a-box/">Agastya International Foundation</a>'s <a href="http://www.agastya.org/lab-in-a-box/">Lab-in-a-Box</a> program.
+Brightbox is a hands-on optics lab for grade school children without access to electricity. It was made for rural schoolhouses participating in <a href="http://www.agastya.org/lab-in-a-box/">Agastya International Foundation</a>'s <a href="http://www.agastya.org/lab-in-a-box/">Lab-in-a-Box</a> program. I conceptualized, prototyped, and tested earlier versions of the Brightbox as an engineer and project lead when it was a low-budget volunteer effort.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/brightbox/beams.jpg" alt="" title="example image"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids_thumb.jpg" alt="Josiah Quincy Elementary School User Tests (1/3)" title="Josiah Quincy Elementary School User Tests (1/3)" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids2_thumb.jpg" alt="Josiah Quincy Elementary School User Tests (2/3)" title="Josiah Quincy Elementary School User Tests (2/3)" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids3_thumb.jpg" alt="Josiah Quincy Elementary School User Tests (3/3)" title="Josiah Quincy Elementary School User Tests (3/3)" onclick="modalOn(this)"/>
 </div>
-
-I conceptualized and tested earlier versions of the Brightbox as an engineer and project lead when it was a low-budget volunteer effort.
+<div class="col three caption">
+	Interaction design tests and group activity pilots at Josiah Quincy Elementary School in Boston.
+</div>
 
 The idea behind this educational toy is simple - three beams of light shine onto a board. Students, equipped with a kit of lenses, mirrors, and prisms, engage in hands-on activities and learn the principles of optics.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/brightbox/convergence.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/brightbox/convergence.png" alt="" title="example image" onclick="modalOn(this)"/>
 </div>
 <div class="col three caption">
 	Kids learn about convergence when they play with this convex lens.
 </div>
 
-# Design goals
+<h3>Design goals</h3>
+<p>
+<ul>
+<li>Interactive</li>
+<li>Kid-sized</li>
+<li>Solar-powered</li>
+<li>Durable</li>
+<li>Affordable</li>
+</ul>
+</p>
 
-* Interactive
-* Kid-sized
-* Solar-powered
-* Durable
-* Affordable
+<h3>Outcomes</h3>
 
-# Outcomes
-
-In a year and a half, my team solved various technical challenges with the previous Brightbox prototypes, made plans for manufacturing, and assembled media for future marketing campaigns. The summer following my graduation, I advised the new team as the project was integrated into Olin's [Affordable Design and Entrepreneurship](http://design.olin.edu/courses/ade/) senior capstone.
-
-<div class="img_row">
-<img class="col two" src="{{ site.baseurl }}/img/brightbox/agastya.png" alt="" title="example image"/>
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/scfg.png" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Brightbox's sponsors: <a href="http://www.agastya.org/">Agastya International Foundation</a> (an Indian non-profit educational trust) and <a href="http://www.scienceclubforgirls.org/">Science Club for Girls</a>
-</div>
+<p>
+In a year and a half, my team solved various technical challenges with the previous Brightbox prototypes, made plans for manufacturing, and assembled media for future marketing campaigns. The summer following my graduation, I advised the new team as the project was integrated into Olin's <a href="http://design.olin.edu/courses/ade/">Affordable Design and Entrepreneurship</a> senior capstone.
+</p>
 
 Read more about:
 <ul>
@@ -57,10 +57,18 @@ Read more about:
 </ul>
 
 <div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids2_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
-<img class="col one" src="{{ site.baseurl }}/img/brightbox/kids3_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kit1_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kit3_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
+<img class="col one" src="{{ site.baseurl }}/img/brightbox/kit5_thumb.jpg" alt="" title="example image" onclick="modalOn(this)"/>
 </div>
 <div class="col three caption">
-	Interaction design tests and activity pilots at Josiah Quincy Elementary School in Boston.
+	Left: three prisms approximate a lens. Middle: a convex prism causes convergence. Right: a mirror reflects light.
+</div>
+
+<div class="img_row">
+<a href="http://www.agastya.org/"><img class="col two" src="{{ site.baseurl }}/img/brightbox/agastya.png" alt="" title="example image" style="height: inherit;"/></a>
+<a href="http://www.scienceclubforgirls.org/"><img class="col one" src="{{ site.baseurl }}/img/brightbox/scfg.png" alt="" title="example image" style="height: inherit;"/></a>
+</div>
+<div class="col three caption">
+	Brightbox's sponsors: Agastya International Foundation</a> (an Indian non-profit educational trust) and Science Club for Girls</a>
 </div>
