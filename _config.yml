@@ -29,5 +29,4 @@ collections:
     output: true
     permalink: /poetry/:path/
 
-gems: [jekyll-paginate, mini_magick, github-pages, thumbnails]
-
+gems: [jekyll-paginate, github-pages]
