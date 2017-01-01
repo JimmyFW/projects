@@ -44,7 +44,7 @@ The idea behind this educational toy is simple - three beams of light shine onto
 </p>
 
 <h3>Outcomes</h3>
-
+<p></p>
 <p>
 In a year and a half, my team solved various technical challenges with the previous Brightbox prototypes, made plans for manufacturing, and assembled media for future marketing campaigns. The summer following my graduation, I advised the new team as the project was integrated into Olin's <a href="http://design.olin.edu/courses/ade/">Affordable Design and Entrepreneurship</a> senior capstone.
 </p>
@@ -65,10 +65,10 @@ Read more about:
 	Left: three prisms approximate a lens. Middle: a convex prism causes convergence. Right: a mirror reflects light.
 </div>
 
+<h3>Sponsors</h3>
+<p>
 <div class="img_row">
 <a href="http://www.agastya.org/"><img class="col two" src="{{ site.baseurl }}/img/brightbox/agastya.png" alt="" title="example image" style="height: inherit;"/></a>
 <a href="http://www.scienceclubforgirls.org/"><img class="col one" src="{{ site.baseurl }}/img/brightbox/scfg.png" alt="" title="example image" style="height: inherit;"/></a>
 </div>
-<div class="col three caption">
-	Brightbox's sponsors: Agastya International Foundation</a> (an Indian non-profit educational trust) and Science Club for Girls</a>
-</div>
+</p>
