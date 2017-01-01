@@ -5,8 +5,18 @@ description: Saving time and money for building owners.
 img: /img/scope/logo.png
 ---
 
-Lack of documentation is currently one of the largest problems facing electricians and leads to longer maintenance times and potential costly errors for building owners.
+In my senior year of college, I worked with a team of six on a capstone project sponsored by <a href="http://www.ivani.com/">Ivani</a>, an energy technology start-up. The prompt was open-ended: create a new product for Ivani's corporate partners in the construction and manufacturing sectors.
 
-Solution: a smart tagging system to help electricians and building owners track important information about electrical components such as the operating characteristics of the component, what the component is attached to, and the maintenance history of the component.
+<div class="img_row">
+<a href="http://www.olin.edu/collaborate/scope/projects/2014_15/Ivani/"><img class="col three" src="{{ site.baseurl }}/img/scope/team.png" alt="" title="example image" style="height: inherit;"/></a>
+</div>
+<div class="col three caption">
+	About the team.
+</div>
 
-Our design makes it simple to implement new data types in future iterations such as the approximate GPS coordinates of a tag.
+<div class="img_row">
+<a href="{{ site.baseurl }}/img/scope/ivaniarchivalposter.pdf"><img class="col one" src="{{ site.baseurl }}/img/scope/poster.png" alt="" title="example image" style="height: inherit;"/></a>
+</div>
+<div class="col three caption">
+	Public project poster.
+</div>
