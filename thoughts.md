@@ -5,8 +5,6 @@ title: thoughts
 description: 
 ---
 
-Blog coming soon.
-
 <ul class="post-list">
 {% for poem in site.thoughts reversed %}
     <li>

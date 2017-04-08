@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<div class="header-bar">
+  <h1>Jimmy Wu</h1>
+  UX Designer / Software Engineer living in Somerville, MA.
+</div>
+
+<div> <!-- projects -->
+  {% for project in site.portfolio %}
+
+  {% if project.redirect %}
+  <div class="project">
+      <div class="thumbnail">
+          <a href="{{ project.redirect }}" target="_blank">
+          {% if project.img %}
+          <img class="thumbnail" src="{{ site.baseurl }}{{ project.img }}"/>
+          {% else %}
+          <div class="thumbnail blankbox"></div>
+          {% endif %}    
+          <span>
+              <h1>{{ project.title }}</h1>
+              <br/>
+              <p>{{ project.description }}</p>
+          </span>
+          </a>
+      </div>
+  </div>
+  {% else %}
+
+  <div class="project">
+      <div class="thumbnail">
+          <a href="{{ site.baseurl }}{{ project.url }}">
+          {% if project.img %}
+          <img class="thumbnail" src="{{ site.baseurl }}{{ project.img }}"/>
+          {% else %}
+          <div class="thumbnail blankbox"></div>
+          {% endif %}    
+          <span>
+              <h1>{{ project.title }}</h1>
+              <br/>
+              <p>{{ project.description }}</p>
+          </span>
+          </a>
+      </div>
+  </div>
+
+  {% endif %}
+
+  {% endfor %}
+</div> <!-- endprojects -->
+
+<div style="margin-top: 100px">
+<span class="contacticon center">
+  <a href="https://www.github.com/jwjimmy" target="_blank"><i class="fa fa-github-square"></i></a>
+</span>
+</div>
+
+
+
+<ul class="post-list">
+    {% for post in paginator.apps %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
