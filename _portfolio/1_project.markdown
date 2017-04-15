@@ -2,7 +2,7 @@
 layout: page
 title: Brightbox
 description: An interactive learning kit that teaches optics to grade-schoolers.
-img: /img/brightbox/thumbnail.jpg
+img: /img/brightbox/coverphoto_small.jpg
 ---
 
 <div class="position-anchor">
